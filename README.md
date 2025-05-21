@@ -3,7 +3,7 @@
 
 
 ------
-**PyTorch** implementation of [MLLM Semantic Corrected Ping-Pong-Ahead Diffusion]() (Zheqi Lv et al.)
+**PyTorch** implementation of [MLLM Semantic Corrected Ping-Pong-Ahead Diffusion]()
 
 ## 📚 Quick Start
 
