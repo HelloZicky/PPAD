@@ -1,4 +1,11 @@
-## 🚀 Quick Start
+# 🚀 MLLM Semantic Corrected Ping-Pong-Ahead Diffusion
+
+
+
+------
+**PyTorch** implementation of [MLLM Semantic Corrected Ping-Pong-Ahead Diffusion]() (Zheqi Lv et al.)
+
+## 📚 Quick Start
 
 Run the following script to start inference:
 
