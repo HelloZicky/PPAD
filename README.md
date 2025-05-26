@@ -1,9 +1,9 @@
-# 🚀 MLLM Semantic Corrected Ping-Pong-Ahead Diffusion
+# 🚀 Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion
 
 
 
 ------
-**PyTorch** implementation of [MLLM Semantic Corrected Ping-Pong-Ahead Diffusion]()
+**PyTorch** implementation of [Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion]()
 
 ## 📚 Quick Start
 
