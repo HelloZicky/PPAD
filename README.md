@@ -3,7 +3,7 @@
 
 
 ------
-**PyTorch** implementation of [Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion]()
+**PyTorch** implementation of [Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion](https://www.arxiv.org/abs/2505.20053)
 
 ## 📚 Quick Start
 
